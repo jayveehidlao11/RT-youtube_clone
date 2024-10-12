@@ -1,0 +1,33 @@
+[
+    {
+         "title":"HTML & CSS Full Course - Beginner to Pro",
+         "channel":"Sample channel",
+         "images":{
+             "thumbnail":"../public/images/thumbnail_1.webp",
+             "channel":"../public/images/channel_1.jpg"
+         },
+         "views":"11M ",
+         "timespan":"2 years ago"
+     },
+     {
+         "title":"Marbil orders probe into alleged role of ex-chief PNP in Alice Gou's escape",
+         "channel":"Sample channel",
+         "images":{
+             "thumbnail":"../public/images/thumbnail_2.webp",
+             "channel":"../public/images/channel_2.jpg"
+             },
+         "views":"11M ",
+         "timespan":"2 years ago"
+     },
+     {
+         "title":"Valorant",
+          "channel":"Sample channel",
+         "images":{
+             "thumbnail":"../public/images/thumbnail_3.webp",
+             "channel":"../public/images/channel_3.jpg"
+         },
+         "views":"11M ",
+         "timespan":"2 years ago"
+     }
+ ]
+ 
